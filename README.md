@@ -6,8 +6,6 @@
 
 > 🚀 **Master essential data structures with clean, practical code examples for technical interviews, competitive programming, and academic practice.**
 
----
-
 ## 🔎 About The Project
 
 This repository is a **comprehensive collection of essential data structures** implemented from scratch. It’s designed for:
@@ -18,8 +16,6 @@ This repository is a **comprehensive collection of essential data structures** i
 - 🧑‍🏫 **Anyone who wants to solidify their understanding of data structures**
 
 Whether you're preparing for companies like **Google, Amazon, Microsoft, or FAANG**, or simply want to sharpen your problem-solving skills — this repository has you covered.
-
----
 
 ## 💡 Data Structures Included
 
@@ -32,15 +28,11 @@ Whether you're preparing for companies like **Google, Amazon, Microsoft, or FAAN
 
 ✅ **Code is clean, fully commented, and easy to understand for quick learning.**
 
----
-
 ## 🛠 Technologies Used
 
 - **Languages:** C++, Python, Java *(update as needed)*
 - **IDE:** Visual Studio Code / PyCharm / IntelliJ
 - **Version Control:** Git & GitHub
-
----
 
 ## 🚀 Getting Started
 
@@ -53,27 +45,12 @@ git clone https://github.com/TareqAlKushari/Data-Structures.git
 Navigate into the project folder and explore different data structure implementations.
 You can run and test the code in any IDE that supports the language.
 
----
-
 ## 📈 Why You Should Use This Repository?
 
 * ✅ Clean code with full documentation
 * ✅ Covers most frequently asked data structures in interviews
 * ✅ Perfect for revision before coding tests
 * ✅ Easy to extend and contribute
-
----
-
-## 👨‍💻 Author
-
-**Tareq Al Kushari**
-Computer and Control Engineer
-
-* GitHub: [@TareqAlKushari](https://github.com/TareqAlKushari)
-* LinkedIn: *(Add your LinkedIn URL)*
-* Portfolio: *(Optional: Add your personal website)*
-
----
 
 ## 🤝 Contributions
 
@@ -85,18 +62,14 @@ Contributions are welcome and greatly appreciated!
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
+## Author 🙋‍♂️
+
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
+
+## License 📜
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 🔥 Keywords for SEO
-
-```
-Data Structures, Algorithms, Coding Interview Preparation, FAANG Interview, Competitive Programming, LeetCode, HackerRank, LinkedIn, Computer Science, Trees, Graphs, Stacks, Queues, Tries, Sorting Algorithms, C++, Java, Python, Clean Code, GitHub.
-```
-
-```
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
